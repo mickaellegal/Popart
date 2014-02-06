@@ -3,11 +3,11 @@ import urllib2 as urllib
 import json
 
 ## TWITTER CREDENTIALS ##
-access_token_key = "416966114-iEX0xrOiZN0XhImJXY3R1o6oCiSPS2eioybDTful"
-access_token_secret = "QRIuOsIVXPtUHIkK7ZPhEjdVtNHu4Qea7RRHRGIUpYcnz"
+access_token_key = "Your_access_token_key"
+access_token_secret = "Your_access_token_secret"
 
-consumer_key = "oYa5oNau34f87acK0BzA"
-consumer_secret = "TbS6wNNM9Eq7VE2mytoon6haA6XPECoFUnal9jn6gY"
+consumer_key = "Your_consumer_key"
+consumer_secret = "Your_consumer_secret"
 
 _debug = 0
 
